@@ -1,3 +1,0 @@
-# macOS und Build-Dateien die ignoriert werden sollen
-.DS_Store
-*.o
